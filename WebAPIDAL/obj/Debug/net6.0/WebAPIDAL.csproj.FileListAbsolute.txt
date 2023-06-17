@@ -1,0 +1,15 @@
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\bin\Debug\net6.0\WebAPIDAL.deps.json
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\bin\Debug\net6.0\WebAPIDAL.dll
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\bin\Debug\net6.0\WebAPIDAL.pdb
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\bin\Debug\net6.0\Entities.dll
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\bin\Debug\net6.0\Entities.pdb
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\obj\Debug\net6.0\WebAPIDAL.csproj.AssemblyReference.cache
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\obj\Debug\net6.0\WebAPIDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\obj\Debug\net6.0\WebAPIDAL.AssemblyInfoInputs.cache
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\obj\Debug\net6.0\WebAPIDAL.AssemblyInfo.cs
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\obj\Debug\net6.0\WebAPIDAL.csproj.CoreCompileInputs.cache
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\obj\Debug\net6.0\WebAPIDAL.csproj.CopyComplete
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\obj\Debug\net6.0\WebAPIDAL.dll
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\obj\Debug\net6.0\refint\WebAPIDAL.dll
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\obj\Debug\net6.0\WebAPIDAL.pdb
+C:\Users\nashu\source\repos\Convo\WebAPIDAL\obj\Debug\net6.0\ref\WebAPIDAL.dll

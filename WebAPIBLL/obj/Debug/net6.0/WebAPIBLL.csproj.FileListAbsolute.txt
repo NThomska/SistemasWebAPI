@@ -1,0 +1,17 @@
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\bin\Debug\net6.0\WebAPIBLL.deps.json
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\bin\Debug\net6.0\WebAPIBLL.dll
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\bin\Debug\net6.0\WebAPIBLL.pdb
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\bin\Debug\net6.0\Entities.dll
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\bin\Debug\net6.0\WebAPIDAL.dll
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\bin\Debug\net6.0\Entities.pdb
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\bin\Debug\net6.0\WebAPIDAL.pdb
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\obj\Debug\net6.0\WebAPIBLL.csproj.AssemblyReference.cache
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\obj\Debug\net6.0\WebAPIBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\obj\Debug\net6.0\WebAPIBLL.AssemblyInfoInputs.cache
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\obj\Debug\net6.0\WebAPIBLL.AssemblyInfo.cs
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\obj\Debug\net6.0\WebAPIBLL.csproj.CoreCompileInputs.cache
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\obj\Debug\net6.0\WebAPIBLL.csproj.CopyComplete
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\obj\Debug\net6.0\WebAPIBLL.dll
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\obj\Debug\net6.0\refint\WebAPIBLL.dll
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\obj\Debug\net6.0\WebAPIBLL.pdb
+C:\Users\nashu\source\repos\Convo\WebAPIBLL\obj\Debug\net6.0\ref\WebAPIBLL.dll

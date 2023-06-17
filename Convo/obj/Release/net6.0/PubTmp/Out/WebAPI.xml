@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.SalesReasonController.GetAllSalesReason">
+            <summary>
+            Retorna una lista de los Sales Reason.
+            </summary>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:WebAPI.Controllers.SalesReasonController.GetSalesReasonById(System.Int32)" -->
+        <member name="M:WebAPI.Controllers.SalesReasonController.CreateSalesReason(Entities.Sales.SalesReason)">
+            <summary>
+            Crea un nuevo Sales Reason
+            </summary>
+            <param name="salesReason"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.SalesReasonController.UpdateSalesReson(Entities.Sales.SalesReason)">
+            <summary>
+            Modifica un Sales Reason
+            </summary>
+            <param name="salesReason"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.SalesReasonController.DeleteSalesReason(System.Int32)">
+            <summary>
+            Elimina un Sales Reason
+            </summary>
+            <param name="salesReasonId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
